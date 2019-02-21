@@ -1,2 +1,2 @@
 # sys265-scripts
-SYS265 Docker Repository
+SYS265 Scripts Repository
